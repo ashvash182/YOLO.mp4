@@ -1,3 +1,5 @@
+(Dockerization in progress...)
+
 INSTALLATIONS
 1. Run pip install -r requirements.txt
 
@@ -27,5 +29,3 @@ test.py will check for:
     4. structure of dictionary output
     5. listing of pushed jobs
     6. will output "testing successful" upon completion
-
-Dockerization in progress...
